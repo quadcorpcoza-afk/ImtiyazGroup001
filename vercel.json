@@ -1,8 +1,5 @@
 {
   "framework": "nextjs",
   "buildCommand": "next build",
-  "installCommand": "npm install",
-  "env": {
-    "PAYLOAD_SECRET": "@payload_secret"
-  }
+  "installCommand": "npm install"
 }
